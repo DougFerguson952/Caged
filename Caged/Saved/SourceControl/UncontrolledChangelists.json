@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Mariu/OneDrive/Desktop/Caged_P/Caged/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"C:/Users/Mariu/OneDrive/Documents/GitHub/Caged/Caged/Content/Power_System_BPS/Power_Switch.uasset",
+				"C:/Users/Mariu/OneDrive/Documents/GitHub/Caged/Caged/Content/Power_System_BPS/Timer_System.uasset",
+				"C:/Users/Mariu/OneDrive/Documents/GitHub/Caged/Caged/Content/Power_System_BPS/Safe_Switch.uasset",
+				"C:/Users/Mariu/OneDrive/Documents/GitHub/Caged/Caged/Content/Power_System_BPS/Light_Source.uasset",
+				"C:/Users/Mariu/OneDrive/Documents/GitHub/Caged/Caged/Content/Caged_MainLevel.umap",
 				"C:/Users/W213649211/Documents/GitHub/Caged/Caged/Content/Caged_MainLevel.umap",
 				"C:/Users/W213649211/Documents/GitHub/Caged/Caged/Content/Test.umap",
 				"C:/Users/W213649211/Documents/GitHub/Caged/Caged/Content/NewWidgetBlueprint.uasset",
@@ -134,8 +140,7 @@
 				"C:/Users/Doug/Documents/GitHub/Caged/Caged/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset",
 				"C:/Users/Doug/Documents/GitHub/Caged/Caged/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset",
 				"C:/Users/Doug/Documents/GitHub/Caged/Caged/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset",
-				"C:/Users/Doug/Documents/GitHub/Caged/Caged/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset",
-				"C:/Users/Mariu/OneDrive/Desktop/Caged_P/Caged/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+				"C:/Users/Doug/Documents/GitHub/Caged/Caged/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset"
 			]
 		}
 	]
