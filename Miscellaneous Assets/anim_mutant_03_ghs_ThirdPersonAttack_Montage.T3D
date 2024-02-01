@@ -1,0 +1,21 @@
+Begin Object Class=/Script/Engine.AnimMontage Name="anim_mutant_03_ghs_ThirdPersonAttack_Montage" ExportPath=/Script/Engine.AnimMontage'"/Game/Mutant_03_GHS/Demo/Animation/anim_mutant_03_ghs_ThirdPersonAttack_Montage.anim_mutant_03_ghs_ThirdPersonAttack_Montage"'
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfo Name="SceneThumbnailInfo_0" ExportPath=/Script/UnrealEd.SceneThumbnailInfo'"/Game/Mutant_03_GHS/Demo/Animation/anim_mutant_03_ghs_ThirdPersonAttack_Montage.anim_mutant_03_ghs_ThirdPersonAttack_Montage:SceneThumbnailInfo_0"'
+   End Object
+   Begin Object Class=/Script/Engine.AnimDataModel Name="AnimDataModel" ExportPath=/Script/Engine.AnimDataModel'"/Game/Mutant_03_GHS/Demo/Animation/anim_mutant_03_ghs_ThirdPersonAttack_Montage.anim_mutant_03_ghs_ThirdPersonAttack_Montage:AnimDataModel"'
+   End Object
+   Begin Object Name="SceneThumbnailInfo_0" ExportPath=/Script/UnrealEd.SceneThumbnailInfo'"/Game/Mutant_03_GHS/Demo/Animation/anim_mutant_03_ghs_ThirdPersonAttack_Montage.anim_mutant_03_ghs_ThirdPersonAttack_Montage:SceneThumbnailInfo_0"'
+   End Object
+   Begin Object Name="AnimDataModel" ExportPath=/Script/Engine.AnimDataModel'"/Game/Mutant_03_GHS/Demo/Animation/anim_mutant_03_ghs_ThirdPersonAttack_Montage.anim_mutant_03_ghs_ThirdPersonAttack_Montage:AnimDataModel"'
+      FrameRate=(Numerator=100000)
+      NumberOfFrames=177778
+      NumberOfKeys=177779
+      bPopulated=True
+   End Object
+   CompositeSections(0)=(SectionName="Default",LinkedMontage=/Script/Engine.AnimMontage'"anim_mutant_03_ghs_ThirdPersonAttack_Montage"',SegmentIndex=0,SegmentLength=1.777778,LinkedSequence=/Script/Engine.AnimSequence'"/Game/Mutant_03_GHS/Demo/Animation/anim_mutant_03_ghs_ThirdPersonAttack.anim_mutant_03_ghs_ThirdPersonAttack"')
+   SlotAnimTracks(0)=(AnimTrack=(AnimSegments=((AnimReference=/Script/Engine.AnimSequence'"/Game/Mutant_03_GHS/Demo/Animation/anim_mutant_03_ghs_ThirdPersonAttack.anim_mutant_03_ghs_ThirdPersonAttack"',AnimEndTime=2.666667))))
+   SequenceLength=1.777780
+   AnimNotifyTracks(0)=(TrackName="1")
+   DataModelInterface=AnimDataModel'anim_mutant_03_ghs_ThirdPersonAttack_Montage:AnimDataModel'
+   Skeleton=/Script/Engine.Skeleton'"/Game/Mutant_03_GHS/Mesh/SK_mutant_03_ghs_Skeleton.SK_mutant_03_ghs_Skeleton"'
+   ThumbnailInfo=/Script/UnrealEd.SceneThumbnailInfo'"SceneThumbnailInfo_0"'
+End Object
