@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Caged_Clones/Caged/Caged/Content/GameMechanicsModules/Power_System_BPS/Timer/Survival_Time.uasset",
+				"C:/Caged_Clones/Caged/Caged/Content/Caged_MainLevel.umap",
 				"C:/Users/W213649211/Documents/GitHub/Caged/Caged/Content/Caged_MainLevel.umap",
 				"C:/Users/W213649211/Documents/GitHub/Caged/Caged/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/W213649211/Documents/GitHub/Caged/Caged/Content/LevelConstruction/Floor_SM.uasset",
