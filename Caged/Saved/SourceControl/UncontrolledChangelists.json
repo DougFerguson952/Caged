@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Caged_Clones/Caged/Caged/Content/GameMechanicsModules/Power_System_BPS/Timer/Survival_Time.uasset",
+				"C:/Caged_Clones/Caged/Caged/Content/Caged_MainLevel.umap",
 				"C:/Users/W213649211/Documents/GitHub/Caged/Caged/Content/Caged_MainLevel.umap",
 				"C:/Users/W213649211/Documents/GitHub/Caged/Caged/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/W213649211/Documents/GitHub/Caged/Caged/Content/LevelConstruction/Floor_SM.uasset",
@@ -70,6 +72,7 @@
 				"C:/Users/W213649211/Documents/GitHub/Caged/Caged/Content/GameMechanicsModules/Power_System_BPS/Lights/Power_Flip.uasset",
 				"C:/Users/W213649211/Documents/GitHub/Caged/Caged/Content/GameMechanicsModules/Power_System_BPS/Lights/Light_Source.uasset",
 				"C:/Users/W213649211/Documents/GitHub/Caged/Caged/Content/GameMechanicsModules/Power_System_BPS/Timer/Survival_Time.uasset",
+				"C:/Users/W213649211/Documents/GitHub/Caged/Caged/Content/Monster_BP.uasset",
 				"C:/Users/W213649211/Documents/GitHub/Caged/Caged/Content/Power_System_BPS/Timer/Survival_Time.uasset",
 				"C:/Users/W213649211/Documents/GitHub/Caged/Caged/Content/Power_System_BPS/Map/Test_Grounds.umap",
 				"C:/Users/W213649211/Documents/GitHub/Caged/Caged/Content/Power_System_BPS/Lights/Light_Source.uasset",
