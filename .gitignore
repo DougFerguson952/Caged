@@ -31,3 +31,7 @@
 *.out
 *.app
 Miscellaneous Assets/Rig/SKM_Teuthisan_rig_v001.uasset
+*.log
+/Caged/Saved/Crashes
+/Caged/Saved/Crashes
+*.log
